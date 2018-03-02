@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weather.iml" filepath="$PROJECT_DIR$/weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-basic/weather-basic.iml" filepath="$PROJECT_DIR$/weather-basic/weather-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-city/weather-city.iml" filepath="$PROJECT_DIR$/weather-city/weather-city.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-collection/weather-collection.iml" filepath="$PROJECT_DIR$/weather-collection/weather-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-config/weather-config.iml" filepath="$PROJECT_DIR$/weather-config/weather-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-config-client/weather-config-client.iml" filepath="$PROJECT_DIR$/weather-config-client/weather-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-data/weather-data.iml" filepath="$PROJECT_DIR$/weather-data/weather-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-client/weather-eureka-client.iml" filepath="$PROJECT_DIR$/weather-eureka-client/weather-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-client-zuul/weather-eureka-client-zuul.iml" filepath="$PROJECT_DIR$/weather-eureka-client-zuul/weather-eureka-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-eureka-server/weather-eureka-server.iml" filepath="$PROJECT_DIR$/weather-eureka-server/weather-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-report/weather-report.iml" filepath="$PROJECT_DIR$/weather-report/weather-report.iml" />
+    </modules>
+  </component>
+</project>

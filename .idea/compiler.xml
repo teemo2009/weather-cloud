@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="weather" />
+        <module name="weather-basic" />
+        <module name="weather-city" />
+        <module name="weather-collection" />
+        <module name="weather-config" />
+        <module name="weather-config-client" />
+        <module name="weather-data" />
+        <module name="weather-eureka-client" />
+        <module name="weather-eureka-client-zuul" />
+        <module name="weather-eureka-server" />
+        <module name="weather-report" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="weather" target="1.8" />
+      <module name="weather-basic" target="1.8" />
+      <module name="weather-city" target="1.8" />
+      <module name="weather-collection" target="1.8" />
+      <module name="weather-config" target="1.8" />
+      <module name="weather-config-client" target="1.8" />
+      <module name="weather-data" target="1.8" />
+      <module name="weather-eureka-client" target="1.8" />
+      <module name="weather-eureka-client-zuul" target="1.8" />
+      <module name="weather-eureka-server" target="1.8" />
+      <module name="weather-report" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
